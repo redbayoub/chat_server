@@ -1,6 +1,6 @@
 # Chat Server
 A Spring boot server with Rest Api that alow users to read and create RSS feed
-
+# README NOT FINISHED
 ## What I Learned
 - Parse XML & Create XML Files
 - Retrieve input from url
