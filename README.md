@@ -1,7 +1,7 @@
 # Chat Server
 A Spring Boot server with Rest Api that alow users to communicate ( Text, Viedo, Audio, File) privatly or in groups
 
-### Notice : this is nota fully secured api
+### Notice : this is not a fully secured api
 
 ## What I Learned
 - Creating Database using ORM Hibernate
