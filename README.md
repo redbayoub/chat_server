@@ -1,10 +1,14 @@
 # Chat Server
-A Spring boot server with Rest Api that alow users to read and create RSS feed
+A Spring Boot server with Rest Api that alow users to communicate ( Text, Viedo, Audio, File) privatly or in groups
 # README NOT FINISHED
+### Notice : this is nota fully secured api
+
 ## What I Learned
-- Parse XML & Create XML Files
-- Retrieve input from url
-- Read and create RSS Feed
+- Creating Database using ORM Hibernate
+- Creating REST API using Spring Boot
+- Creating Upload Service in the server
+- Learned MongoDB and using it in storing files
+- Creating Messaging system and design a suitable database
 
 
 ## to run:
